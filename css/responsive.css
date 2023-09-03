@@ -289,6 +289,10 @@
   }
 }
 @media only screen and (max-width: 1399px) {
+  .info.blogs .txt-holder .images {
+    width: 100%;
+  }
+  
   .max-container {
     max-width: 1280px;
   }
@@ -1269,6 +1273,10 @@
   .navbar-nav {
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .info.blogs .txt-holder .images {
+    width: 100%;
   }
 
   .info .slider blockquote {
