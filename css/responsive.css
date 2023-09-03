@@ -1632,6 +1632,7 @@
 
   .info .slider .images {
     margin: 0;
+    display: none;
   }
 
   .info .slider .pagination {
